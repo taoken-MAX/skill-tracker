@@ -14,7 +14,7 @@ Track Claude Code skill usage, detect ghost skills, and clean up stale skills au
 
 ```bash
 # Clone to global skills directory
-git clone https://github.com/YOUR_USERNAME/skill-tracker.git ~/.claude/skills/skill-tracker
+git clone https://github.com/taoken-MAX/skill-tracker.git ~/.claude/skills/skill-tracker
 ```
 
 Add this to `~/.claude/settings.json`:
